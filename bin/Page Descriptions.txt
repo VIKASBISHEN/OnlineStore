@@ -1,0 +1,37 @@
+COMPLETE SELENIUM WEBSITE | SELENIUM TUTORIAL FOR STARTERS | ADVANCE TOPICS | STEP BY STEP PROCESS TO SET UP SELENIUM AUTOMATION FRAMEWORK
+
+Step by step process to Download and Configure Eclipse IDE, Selenium WebDriver Java client and Java Development Kit (JDK).
+Steps to set up New Project, new Package and new Class to write First Selenium WebDriver Test Case in Eclipse IDE. Demo website www.onlinestore.toolsqa.com 
+
+Selenium Introduction topic covers 'About Selenium', 'Why Selenium', 'Selenium Components' and 'Selenium WebDriver'.
+Selenium-WebDriver Browser commands covers driver.get(), driver.getTitle(), driver.getCurrentUrl(), driver.getPageSource(), driver.close() and driver.quit()
+Selenium-WebDriver WebElement commands covers By ID, By Name, By Class Name, By Tag Name, By Link Text, By Partial Link Text commands with examples.
+Selenium-WebDriver Browser Navigation commands covers navigate.to(), navigate.forward(), navigate.back(), navigate.refresh() commands with examples.  
+Selenium-WebDriver Switch commands covers getWindowHandle(), getWindowHandles(), switchTo.window(), switchTo.frame() and switchTo.alert() commands with examples. 
+Selenium-WebDriver Wait commands covers ImplicitlyWait, FluentWait, ExpectedConditions, PageLoadTimeOut, SetScriptTimeOut and Sleep commands with examples.
+Find WebElements using Browser Inspector explains Activating the Web Inspector and Selecting Elements using Inspector with IEInspector & Mozilla FireBug. 
+
+Step by step process to Download Apache POI Jars, adding Jars to Eclipse project and Writing Excel based Data Driven Selenium Test Case with examples.
+
+Step by step process to Download Log4j Jars, adding Jars to Eclipse project, set up log4j xml and Writing Selenium Test Case with Log4j logging with examples.
+
+TestNG Introduction covers What is TestNG, TestNG Benefits, TestNG Annotations, TestNG Groups, TestNG xml TestSuite, Test case Prioritising with examples.
+Step by step process to Install TestNG plugin in Eclipse IDE, Create a TestNG Class and write Selenium Test case with TestNG annotations with examples. 
+
+Set up Selenium Automation Framework implementing Log4j logging, TestNG framework, Apache POI, POM, Function Lib, Data Driven, Modular Driven, Constants.
+Step by step process to Set up Page Object Model (POM) in Selenium Automation Framework. Set up TestNG, LOg4j, Data Driven, Functional Libs and Constants.
+Step by step process to Set up Modular framework in Selenium Automation framework.Set up TestNG, LOg4j, Data Driven, POM, Functional Libs and Constants.
+Step by step process to Set up Function Parameters in Selenium Automation framework.Set up TestNG, LOg4j, Data Driven, POM, Functional Libs and Constants.
+Step by step process to Set up Constant Variables in Selenium Automation framework.Set up TestNG, LOg4j, Data Driven, POM, Functional Libs and Modularity.
+Step by step process to Set up Data Driven Framework in Selenium Automation framework.Set up TestNG, LOg4j, POM, Modularity, Functional Libs and Constants.
+Step by step process to Set up Log4j Logging in Selenium Automation framework. Set up TestNG, Data Driven, POM, Modularity, Functional Libs and Constants.
+Step by step process to Set up TestNG Framework in Selenium Automation framework. Set up Data Driven, LOg4j, POM, Modularity, Functional Libs and Constants.
+Step by step process to Set up User Defined Functions (UDF) in Selenium Automation framework. Set up TestNG, LOg4j, POM, Modularity, Data Driven and Constants.
+Practice Selenium Automation Framework on Dummy Sales Website (www.onlinestore.toolsqa.com). This website is built for Tester to practice Automation.
+
+Blogs on Selenium Interview Questions, TestNG Framework, Modular Framework, Data Driven Framework, Log4j Logging, Functions Libs, Constant Variables, POM.
+
+This explains the different techniques to Mouse hover on a WebElement or on drop down menus using Action Class in Java with Selenium Webdriver.
+
+IT WOULD BE GREAT TO HEAR FROM YOU!!!! IT IS QUICK AND EASY!!! Just drop me a line and ask for anything with which you think I could be helpful.
+About Me (Lakshay Sharma ) my websites (www.toolsqa.com / onlinestore.toolsqa.com).  I’M A TEST AUTOMATION ENGINEER. I have over 8 years of Industry exp. 

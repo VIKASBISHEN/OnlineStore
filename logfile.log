@@ -1,0 +1,117 @@
+
+2018-07-31 00:02:55,384 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:02:55,386 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:02:55,386 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-31 00:02:55,386 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:02:55,386 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:02:56,452 INFO  [Log] Excel sheet opened 
+2018-07-31 00:02:56,452 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-07-31 00:03:10,840 INFO  [Log] New driver instantiated 
+2018-07-31 00:03:11,657 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-07-31 00:03:12,734 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.onlinestore.toolsqa.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.onlinestore.toolsqa.com.
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'HP', ip: '192.168.0.4', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6164, moz:profile: C:\Users\Vikash\AppData\Loc..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.3, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d0e89efe-9293-4a70-b2d6-7c7a2f59f931 
+2018-07-31 00:03:32,779 ERROR [Log] My Acocunt link is not found on the Home Page 
+2018-07-31 00:03:33,208 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'HP', ip: '192.168.0.4', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6164, moz:profile: C:\Users\Vikash\AppData\Loc..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.3, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d0e89efe-9293-4a70-b2d6-7c7a2f59f931
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2018-07-31 00:03:33,216 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-31 00:03:33,216 INFO  [Log] X 
+2018-07-31 00:03:33,217 INFO  [Log] X 
+2018-07-31 00:03:33,217 INFO  [Log] X 
+2018-07-31 00:03:33,217 INFO  [Log] X 
+2018-07-31 00:03:39,700 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:03:39,700 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:03:39,700 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-31 00:03:39,700 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:03:39,700 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:03:39,776 INFO  [Log] Excel sheet opened 
+2018-07-31 00:03:39,777 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-07-31 00:04:01,041 INFO  [Log] New driver instantiated 
+2018-07-31 00:04:01,066 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-07-31 00:04:01,241 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.onlinestore.toolsqa.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.onlinestore.toolsqa.com.
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'HP', ip: '192.168.0.4', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 37032, moz:profile: C:\Users\Vikash\AppData\Loc..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.3, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 0e1c8a27-025a-448f-87e2-903a1196389f 
+2018-07-31 00:04:21,265 ERROR [Log] My Acocunt link is not found on the Home Page 
+2018-07-31 00:04:21,446 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'HP', ip: '192.168.0.4', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 37032, moz:profile: C:\Users\Vikash\AppData\Loc..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.3, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 0e1c8a27-025a-448f-87e2-903a1196389f
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2018-07-31 00:04:21,456 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-31 00:04:21,456 INFO  [Log] X 
+2018-07-31 00:04:21,456 INFO  [Log] X 
+2018-07-31 00:04:21,456 INFO  [Log] X 
+2018-07-31 00:04:21,456 INFO  [Log] X 
+2018-07-31 00:06:48,901 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:06:48,902 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:06:48,902 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-31 00:06:48,902 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:06:48,902 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:06:49,782 INFO  [Log] Excel sheet opened 
+2018-07-31 00:06:49,782 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-07-31 00:06:58,529 INFO  [Log] New driver instantiated 
+2018-07-31 00:06:58,544 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-07-31 00:06:58,734 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.onlinestore.toolsqa.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.onlinestore.toolsqa.com.
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'HP', ip: '192.168.0.4', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 15632, moz:profile: C:\Users\Vikash\AppData\Loc..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.3, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 403f12ba-b47c-4827-98cb-b81354bde964 
+2018-07-31 00:07:18,806 ERROR [Log] My Acocunt link is not found on the Home Page 
+2018-07-31 00:07:19,365 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'HP', ip: '192.168.0.4', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 15632, moz:profile: C:\Users\Vikash\AppData\Loc..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.3, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 403f12ba-b47c-4827-98cb-b81354bde964
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2018-07-31 00:07:20,562 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-31 00:07:20,562 INFO  [Log] X 
+2018-07-31 00:07:20,563 INFO  [Log] X 
+2018-07-31 00:07:20,563 INFO  [Log] X 
+2018-07-31 00:07:20,563 INFO  [Log] X 
+2018-07-31 00:07:32,387 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:07:32,387 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:07:32,387 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-31 00:07:32,387 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:07:32,387 INFO  [Log] **************************************************************************************** 
+2018-07-31 00:07:32,467 INFO  [Log] Excel sheet opened 
+2018-07-31 00:07:32,468 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-07-31 00:07:47,389 INFO  [Log] New driver instantiated 
+2018-07-31 00:07:47,399 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-07-31 00:07:47,558 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.onlinestore.toolsqa.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.onlinestore.toolsqa.com.
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'HP', ip: '192.168.0.4', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 36056, moz:profile: C:\Users\Vikash\AppData\Loc..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.3, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 89b95373-e410-47f3-93c2-d94af0e68ecd 
+2018-07-31 00:08:07,604 ERROR [Log] My Acocunt link is not found on the Home Page 
+2018-07-31 00:08:07,904 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'HP', ip: '192.168.0.4', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 36056, moz:profile: C:\Users\Vikash\AppData\Loc..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.3, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 89b95373-e410-47f3-93c2-d94af0e68ecd
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2018-07-31 00:08:07,911 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-31 00:08:07,911 INFO  [Log] X 
+2018-07-31 00:08:07,911 INFO  [Log] X 
+2018-07-31 00:08:07,911 INFO  [Log] X 
+2018-07-31 00:08:07,911 INFO  [Log] X 
