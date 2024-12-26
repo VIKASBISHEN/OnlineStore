@@ -6,9 +6,10 @@
        </listeners>  
   	<test name="Random Test">
 		<classes>
-       		<!-- 	-->
+       		<!-- 	
        			<class name="testCases.Framework_001" />
-       			<class name="testCases.Framework_002" />
+       			<class name="testCases.Framework_002" />-->
+       			<class name="testCases.TestDemo"></class>
        			
 				  
 		</classes>
