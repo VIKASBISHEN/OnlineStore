@@ -112,15 +112,6 @@
 
 
 
-  	<dependency>
-  		<groupId>RestAssuredAutomation</groupId>
-  		<artifactId>RestAssuredAutomation</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>SeleniumFramework</groupId>
-  		<artifactId>SeleniumFramework</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  	
   </dependencies>
 </project>

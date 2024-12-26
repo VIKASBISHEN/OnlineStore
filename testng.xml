@@ -9,7 +9,7 @@
        		<!-- 	
        			<class name="testCases.Framework_001" />
        			<class name="testCases.Framework_002" />-->
-       			<class name="testCases.TestDemo"></class>
+       			<class name="testCases.Demo"></class>
        			
 				  
 		</classes>
